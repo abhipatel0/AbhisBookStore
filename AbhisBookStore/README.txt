@@ -76,3 +76,27 @@ but i saw that the three projects were not uploaded to github.... So I asked my 
 2023-10-31
 1:55
 Finally my project is done and I'm comiting it to github....
+
+2023-11-04
+13:39
+Started part 2
+
+13:52
+Added migration to .DataAccess project using Comand  add-migration AddDefaultIdentityMigration
+The name of file is 20231104175149_AddDefaultIdentityMigration
+
+14:07
+added Category.cs file in .Models project and edited it...
+
+14:33
+added migration using command add-migration AddCategoryToDb
+The name of file is 20231104183315_AddCategoryToDb
+
+14:41 
+now I'm asked to re-run the migration command but it shows error that "The name 'AddCategoryToDb' is used by an existing migration."
+
+14:42
+So i removed the previou migration using command Remove-Migration...
+
+14:49
+Added new migration named 20231104184850_AddCategoryToDb
