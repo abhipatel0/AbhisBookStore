@@ -100,3 +100,16 @@ So i removed the previou migration using command Remove-Migration...
 
 14:49
 Added new migration named 20231104184850_AddCategoryToDb
+
+14:57
+Added Reopsitory folder in .DataAccess
+
+15:25
+Added IRepository file in IRepository folder and modified it.
+
+16:18
+created new class in repository and modified it.
+
+2023-11-05
+14:45
+created 2 files CategoryRepository and ICategoryRepository and modefyed them...
