@@ -113,3 +113,14 @@ created new class in repository and modified it.
 2023-11-05
 14:45
 created 2 files CategoryRepository and ICategoryRepository and modefyed them...
+
+15:55
+created SP_Call class in Repositry
+
+20:41
+Theren was an error 
+Severity	Code	Description	Project	File	Line	Suppression State in UnitOfWork file
+Error	CS0053	Inconsistent accessibility: property type 'ISP_Call' is less accessible than property 'UnitOfWork.SP_Call'	AbhisBooks.DataAccess
+
+So I Forgot to add public in front of interface in ISP_Call
+
