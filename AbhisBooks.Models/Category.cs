@@ -8,7 +8,7 @@ namespace AbhisBooks.Models
     public class Category
     {
         [Key]
-        public object Id { get; set; }
+        public int Id { get; set; }
         [Display(Name ="Category Name")]
         [Required]
         [MaxLength(50)]
