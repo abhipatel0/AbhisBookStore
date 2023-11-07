@@ -130,3 +130,27 @@ Created new file named CategoryController in Areas>Admin>Controllers
 
 14:02
 runs perfectly and commited to github...
+
+16:09
+modified Index file...
+
+16:15
+Created JavaScript and linked it to Index file...
+
+16:19
+Added Upsert View and modify it....
+
+16:21
+Created 2 partial views
+
+16:25
+Added asp action to Index file
+
+16:27
+Tested it and works perfectly...
+
+19:09
+Added script to delete and the delete button works perfectly....
+
+19:11
+Assignment part 2 Complete and Now I'll commit it to GitHub....
