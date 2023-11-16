@@ -154,3 +154,48 @@ Added script to delete and the delete button works perfectly....
 
 19:11
 Assignment part 2 Complete and Now I'll commit it to GitHub....
+
+
+2023-11-15
+22:10
+Started Part-3 Section 1
+
+22:16
+created CoverType.cs file in Models project.
+
+22:19
+added migration and the name of the file is
+20231116031911_AddCoverTypeToDb
+
+22:34
+created Categoryrepository and ICategoryRepository, and made changs...
+
+22:42
+Added CoverType to UnitOfWork and IUnitOfWork
+
+22:52
+Added CoverTypeController and updated the code...
+
+23:01
+added CoverType Index view and upsert view
+
+23:29
+It was not showing the table...
+
+2023-11-16
+00:09
+thats because i have not made the js file to load the table... Now it works perfectly.
+
+13:27
+Created Product.cs class
+
+13:37
+added migration and the name of the file is:-
+20231116183428_addProductToDb
+
+14:10
+Created ProductRepository and IProductRepository
+
+14:17
+added product to unitOfWork and IUnitOfWork...
+Assignment 2 part 3 section1 completed now i'll commit it to github...
