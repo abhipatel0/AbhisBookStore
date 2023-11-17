@@ -199,3 +199,30 @@ Created ProductRepository and IProductRepository
 14:17
 added product to unitOfWork and IUnitOfWork...
 Assignment 2 part 3 section1 completed now i'll commit it to github...
+
+
+2023-11-17
+15:02
+Created Product Controller...
+
+15:11
+Created ProductVM view in ViewModels and installed .AspNetCore.Mvc.ViewFeature package...
+
+
+15:36
+Modified the productController file...
+
+15:45
+Added Index view
+
+15:58
+created product.js file and modified it according to category.js file...
+
+16:02
+Added link to _Layout.cshtml
+
+16:06
+Tested it and it runs perfectly...
+
+16:16
+Assignment2 part3 section 2 completed... ;)
