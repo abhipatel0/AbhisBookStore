@@ -22,4 +22,8 @@
     <ProjectReference Include="..\AbhisBooks.Utility\AbhisBooks.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\products\" />
+  </ItemGroup>
+
 </Project>

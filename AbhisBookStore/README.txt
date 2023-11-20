@@ -226,3 +226,27 @@ Tested it and it runs perfectly...
 
 16:16
 Assignment2 part3 section 2 completed... ;)
+
+2023-11-19
+16:47
+Started Part3 section3
+
+16:55
+Created Upsert for products...
+
+22:44
+created account on tiny.cloud and added script for text-area in upsert...
+
+22:49
+it runs and the text area is showing
+
+2023-11-20
+14:23
+Added new subfolder in wwwroot> imges/products
+And modefied the code in ProductController...
+
+14:32
+when I was creating new product and when i choose CoverType it shows category, so i changed the Upsert of product  and updated it. It was set to CategoryId..
+
+14:35
+Assignment 3 section 3 Completed.... now I'll commit it to github
