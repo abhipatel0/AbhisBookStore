@@ -250,3 +250,39 @@ when I was creating new product and when i choose CoverType it shows category, s
 
 14:35
 Assignment 3 section 3 Completed.... now I'll commit it to github
+
+2023-11-25
+12:56
+1:06 added new migration for product, changed foreign key...
+20231125180655_UpdatedProduct
+
+2023-11-27
+18:26
+for the ajax error i removed space between category and CoverType in product Controller....
+
+18:34
+The price and category was not showing in product, so i changed product.js and for price I also changed product index...
+
+18:41
+for part 4 I made changes in home Index view....
+
+18:49
+made changes in product controller for http post
+
+18:55
+made changes in startup.cs
+
+19:02
+updated upsert for product...
+
+19:23
+created refrence in of product in HomeController....
+
+19:31
+there was dash in price in the output.....
+
+19:46
+I removed removed strike tag...
+
+19:48
+Tested it and runs perfectly.... Ill commit it to github.....
